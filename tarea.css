@@ -1,0 +1,61 @@
+.peru{
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+
+}
+article{
+    height: 130px;
+    width: 33%;
+}
+.bordes{
+    background:red;
+    margin-bottom: 50px;
+
+}
+
+.nigeria{
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+
+}
+article{
+    height: 130px;
+    width: 33%;
+}
+.borde{
+    background:rgb(50, 85, 50);
+    margin-bottom: 50px;
+}
+
+.alemania {
+    width: 40%;
+    height: 200px;
+    position: relative;
+    flex-direction: row;
+    border: 1px solid black;
+}
+
+.alemania article {
+    width: 100%;
+    position: absolute;
+}
+
+.alemania .negro {
+    background-color: black;
+    height: 33.33%;
+}
+
+.alemania .rojo {
+    background-color: red;
+    height: 33.33%;
+    top: 33.33%;
+}
+
+.alemania .amarillo {
+    background-color: yellow;
+    height: 33.33%;
+    top: 66.66%;
+}
+
